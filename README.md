@@ -7,13 +7,13 @@ Django boiler plate is a fully configured and ready to customize empty webapp.
       pip3 install -r requirements.txt
     
 - Run this command before starting the django server
-     1 - Make migrations
+     - Make migrations
       
       
       python manage.py make migrations
       
       python manage.py migrate
-     1 - Collect static files
+     - Collect static files
      
       python manage.py collectstatic
       
