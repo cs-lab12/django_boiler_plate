@@ -13,7 +13,7 @@ Django boiler plate is a fully configured and ready to customize empty webapp.
       python manage.py make migrations
       
       python manage.py migrate
-     2 - Collect static files
+     1 - Collect static files
      
       python manage.py collectstatic
       
