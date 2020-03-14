@@ -1,0 +1,3 @@
+
+
+Store your templates here and edit and set links on views.py and urls.py
